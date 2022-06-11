@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frogger-react/static/css/main.a95a85ea.css",
-    "main.js": "/frogger-react/static/js/main.c5981e63.js",
+    "main.js": "/frogger-react/static/js/main.c3fe8669.js",
     "static/js/787.e058ae7c.chunk.js": "/frogger-react/static/js/787.e058ae7c.chunk.js",
     "index.html": "/frogger-react/index.html",
     "main.a95a85ea.css.map": "/frogger-react/static/css/main.a95a85ea.css.map",
-    "main.c5981e63.js.map": "/frogger-react/static/js/main.c5981e63.js.map",
+    "main.c3fe8669.js.map": "/frogger-react/static/js/main.c3fe8669.js.map",
     "787.e058ae7c.chunk.js.map": "/frogger-react/static/js/787.e058ae7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a95a85ea.css",
-    "static/js/main.c5981e63.js"
+    "static/js/main.c3fe8669.js"
   ]
 }
