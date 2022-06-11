@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/frogger-react/static/css/main.a95a85ea.css",
-    "main.js": "/frogger-react/static/js/main.c3fe8669.js",
+    "main.css": "/frogger-react/static/css/main.4d4182f6.css",
+    "main.js": "/frogger-react/static/js/main.9fe0096d.js",
     "static/js/787.e058ae7c.chunk.js": "/frogger-react/static/js/787.e058ae7c.chunk.js",
+    "static/media/123.png": "/frogger-react/static/media/123.094ccfd59aac69752a36.png",
+    "static/media/Bg1.png": "/frogger-react/static/media/Bg1.d123f6e2264bd34b9abd.png",
     "index.html": "/frogger-react/index.html",
-    "main.a95a85ea.css.map": "/frogger-react/static/css/main.a95a85ea.css.map",
-    "main.c3fe8669.js.map": "/frogger-react/static/js/main.c3fe8669.js.map",
+    "main.4d4182f6.css.map": "/frogger-react/static/css/main.4d4182f6.css.map",
+    "main.9fe0096d.js.map": "/frogger-react/static/js/main.9fe0096d.js.map",
     "787.e058ae7c.chunk.js.map": "/frogger-react/static/js/787.e058ae7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a95a85ea.css",
-    "static/js/main.c3fe8669.js"
+    "static/css/main.4d4182f6.css",
+    "static/js/main.9fe0096d.js"
   ]
 }
