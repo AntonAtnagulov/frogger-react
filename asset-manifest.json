@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/frogger-react/static/css/main.4d4182f6.css",
-    "main.js": "/frogger-react/static/js/main.1b258bf1.js",
+    "main.css": "/frogger-react/static/css/main.5fc18bbb.css",
+    "main.js": "/frogger-react/static/js/main.777092cd.js",
     "static/js/787.e058ae7c.chunk.js": "/frogger-react/static/js/787.e058ae7c.chunk.js",
     "static/media/Bg1.png": "/frogger-react/static/media/Bg1.d123f6e2264bd34b9abd.png",
     "index.html": "/frogger-react/index.html",
-    "main.4d4182f6.css.map": "/frogger-react/static/css/main.4d4182f6.css.map",
-    "main.1b258bf1.js.map": "/frogger-react/static/js/main.1b258bf1.js.map",
+    "main.5fc18bbb.css.map": "/frogger-react/static/css/main.5fc18bbb.css.map",
+    "main.777092cd.js.map": "/frogger-react/static/js/main.777092cd.js.map",
     "787.e058ae7c.chunk.js.map": "/frogger-react/static/js/787.e058ae7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4182f6.css",
-    "static/js/main.1b258bf1.js"
+    "static/css/main.5fc18bbb.css",
+    "static/js/main.777092cd.js"
   ]
 }
