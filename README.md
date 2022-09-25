@@ -2,7 +2,7 @@
 
 ---
 ##### Desktop
-![alt](./Crosy1.gif)
+![alt](./Crossy1.gif)
 
 ##### Mobile
 ![alt](./Frogger4.gif)
